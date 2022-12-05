@@ -12,5 +12,5 @@ These applications are for use with Thermo Fisher Scientific mass spectrometers.
 
 ## License
 
-The applications in this repo are governed by the [MIT License](https://github.com/thermofisherlsms/iapi/blob/master/LICENSE).
+The applications in this repo are governed by the [MIT License](https://github.com/thermofisherlsms/MoonshotApps/blob/main/LICENSE).
 
