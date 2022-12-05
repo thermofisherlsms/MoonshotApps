@@ -4,7 +4,7 @@ This repository contains the executables for the Hybrid-DIA "Moonshot" applicati
 
 ## Usage
 
-Usage instructions for the Exploris moonshot application can be found [here](https://github.com/thermofisherlsms/MoonshotApps/Exploris/README.md).
+Usage instructions for the Exploris moonshot application can be found [here](https://github.com/thermofisherlsms/MoonshotApps/tree/main/Exploris).
 
 ## Requirements
 
