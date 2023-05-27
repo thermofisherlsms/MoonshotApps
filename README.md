@@ -8,7 +8,7 @@ Usage instructions for the Exploris moonshot application can be found [here](htt
 
 ## Requirements
 
-These applications are for use with Thermo Fisher Scientific mass spectrometers.  Use of the IAPI requires a *IAPI Software License Argreement* to be in placed. Please see these [instructions](https://github.com/thermofisherlsms/iapi/blob/master/Orbitrap_IAPI_Online_licensing_guidance_material.pdf) for obtaining a license.
+These applications are for use with Thermo Fisher Scientific mass spectrometers.  Use of the IAPI requires a *IAPI Software License Argreement* to be in placed. Please see these [instructions](https://github.com/thermofisherlsms/iapi/blob/master/GettingStarted.md#legal-requirements) for obtaining a license.
 
 ## License
 
